@@ -10,6 +10,8 @@
         "vector": "cpp",
         "initializer_list": "cpp",
         "regex": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "bitset": "cpp",
+        "utility": "cpp"
     }
 }
